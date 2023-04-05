@@ -1,6 +1,5 @@
 #include "main.h"
 /**
- * silent_coder
  * _puts_recursion - function like puts();
  * @s: input
  * Return: Always 0 (Success)
